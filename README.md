@@ -4,7 +4,7 @@ I’m Samudalapalepu Naveen, an AI & Data Science graduate and a passionate Soft
 
 I specialize in Python and Django, and I love building systems that are not just functional—but meaningful. Whether it’s designing scalable backend architectures or integrating AI into applications, I focus on creating solutions that solve real-world problems.
 
-🚀 What I Do
+🚀 What I Do 
 💡 Build intelligent web applications using AI + software engineering
 ⚙️ Design scalable backend systems with clean architecture
 📊 Work with data-driven models to deliver smarter solutions
